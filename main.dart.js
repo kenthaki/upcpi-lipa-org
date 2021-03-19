@@ -13954,7 +13954,7 @@ this.b=b},
 RB:function RB(){},
 oY:function oY(){},
 LD:function LD(){},
-ai2:function(a,b){var s,r,q,p,o,n,m,l=null,k=P.aR(32,32,32,1),j=t.b,i=T.id(H.c([U.jd("appbar/logo.png",50,50),T.cy(l,l,12),T.dh(H.c([L.bx("UPCPI - Lipa City",l,B.bW(P.aR(244,216,174,1),14),l),L.bx("Jesus Christ is the Prince of Peace fellowship Center",l,B.bW(P.aR(244,216,174,1),10),l)],j),C.aD,C.P)],j),C.a6,C.P,C.bQ),h=!(b.b<956)||!1,g=T.cy(l,l,32),f=U.uh(l,l,l,l,l,l,l,l,l,l,P.aR(244,216,174,1),l,l,l,l,l,l)
+ai2:function(a,b){var s,r,q,p,o,n,m,l=null,k=P.aR(32,32,32,1),j=t.b,i=T.id(H.c([U.jd("appbar/logo.png",42,42),T.cy(l,l,12),T.dh(H.c([L.bx("UPCPI - Lipa City",l,B.bW(P.aR(244,216,174,1),14),l),L.bx("Jesus Christ is the Prince of Peace fellowship Center",l,B.bW(P.aR(244,216,174,1),10),l)],j),C.aD,C.P)],j),C.a6,C.P,C.bQ),h=!(b.b<956)||!1,g=T.cy(l,l,32),f=U.uh(l,l,l,l,l,l,l,l,l,l,P.aR(244,216,174,1),l,l,l,l,l,l)
 f=U.DM(new T.cv(C.aI,L.bx("SCHEDULES",l,B.bW(P.aR(244,216,174,1),l),l),l),new T.MS(),f)
 s=T.cy(l,l,32)
 r=U.uh(l,l,l,l,l,l,l,l,l,l,P.aR(244,216,174,1),l,l,l,l,l,l)
