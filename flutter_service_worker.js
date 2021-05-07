@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c3ddcb1cc5fde4d09b1abc1bc06a42b3",
+  "assets/AssetManifest.json": "1a32ca0227833682fed0d028d17a112c",
 "assets/assets/appbar/logo.png": "05da2e249953a02e1f92f2b8a27031fc",
 "assets/assets/highlights/0.png": "0119202fe76cbe199fb166d22f40153a",
 "assets/assets/highlights/1.png": "ddc0d3554d9e0461316ff38805c43039",
@@ -13,16 +13,18 @@ const RESOURCES = {
 "assets/assets/icons/facebook.png": "2fc6c40f473b9a8ae8733222973ae4fb",
 "assets/assets/icons/map.png": "05158de457ffea1f4d75acf6cee7967b",
 "assets/assets/icons/phone.png": "55c1a6b18aa01c29c9fa47d3d5845db9",
+"assets/assets/ministries.png": "ef4ded376c2811e5ec4a5acf88a10004",
+"assets/assets/pastor.png": "9d91af00f94de8bad615a74c5cf20519",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "884eeb394f11431f029603d267b747bc",
+"assets/NOTICES": "d4f8ef70d17eca6ee8bdae1c92254890",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "db516f35a564e71549787ecb74304a32",
-"/": "db516f35a564e71549787ecb74304a32",
-"main.dart.js": "cf483e5fbee4112c157f13100e0a399e",
+"index.html": "453d2c21cd624f2f69af99a5c48168f3",
+"/": "453d2c21cd624f2f69af99a5c48168f3",
+"main.dart.js": "62aff955574988162231db31ffb73b6b",
 "manifest.json": "e59a5c291b96dd0a068d0f34a3d35c33",
 "version.json": "c60b7c18511c729d590f322129182b7f"
 };
